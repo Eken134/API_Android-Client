@@ -1,4 +1,4 @@
-# Market Signal Monitor – Weekend Hack Edition
+# Signal Monitor – Weekend Hack Edition
 
 A lightweight Android client built as a weekend experiment to connect with the [PHP REST API – Hack Edition](https://github.com/Eken134/my_Webpage).  
 The app periodically polls the `/get_latest` endpoint and sends push notifications when new signals are detected.
