@@ -1,0 +1,12 @@
+<resources>
+    <!-- neutralt -->
+    <color name="bgDefault">#FFFFFFFF</color>
+    <color name="neutralText">#FF202124</color>
+
+    <!-- grönt/rött ljusa bakgrunder -->
+    <color name="signalGreenBg">#3328A745</color>  <!-- 20% alfa på grön -->
+    <color name="signalRedBg">#33C62828</color>   <!-- varm röd -->
+
+    <!-- text ovanpå bakgrunderna -->
+    <color name="signalText">#FF0B0B0B</color>
+</resources>
